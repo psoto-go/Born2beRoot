@@ -1,4 +1,6 @@
 # Born2beRoot
+
+![Test Image 1](https://github.com/psoto-go/Born2beRoot/blob/8aacf2c1be24ec633f70fadd0156b3bf325bab29/Screen%20Shot%202021-10-25%20at%206.06.48%20PM.png)
 ### ¿Que es una maquina virtual?
 Una máquina virtual es un software que crea una capa independiente donde se emula el funcionamiento de un ordenador real con todos los componentes de hardware que necesita para funcionar (disco duro, memoria RAM, tarjetas de red, tarjeta gráfica, etc.) y que puede ejecutar cualquier sistema operativo o programa, tal y como lo haría un ordenador real
 
