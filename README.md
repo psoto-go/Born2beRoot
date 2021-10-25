@@ -29,3 +29,6 @@ Proporciona un mecanismo para autenticar un usuario remoto, transferir entradas 
 
 ### ¿Qué es UFW?
 Las siglas "UFW" significan "Uncomplicated Firewall" y hacen referencia a una aplicación que tiene como objetivo establecer reglas en "iptables", las tablas de firewall nativas en Linux. Puesto que iptables tiene una sintaxis relativamente compleja, utilizar UFW para realizar su configuración es una alternativa útil sin escatimar en seguridad. Nos permitira abrir y cerrar puertos, combinado con ssh nos sera de gran utilidad
+
+### ¿Qué es LVM?
+LVM (Logical Volume Manager) es un software que le permite administrar múltiples espacios en el disco duro mediante la creación de volúmenes lógicos. Usando LVM puede crear, crecer y reducir las particiones según sus necesidades. LVM se compone de tres componentes: Volumen físico, grupo de volumen y volumen lógico. Cada grupo de volúmenes está compuesto por volúmenes físicos. Puede ampliar o reducir un grupo de volúmenes añadiendo o quitando volúmenes físicos.
